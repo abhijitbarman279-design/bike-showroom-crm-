@@ -1,0 +1,6 @@
+{
+  "name": "MotoCRM Pro",
+  "description": "Enterprise Bike Showroom CRM & Dealer Management System with full dashboard visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
